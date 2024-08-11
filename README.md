@@ -1,2 +1,2 @@
 # redirecionamento-whatsapp
- Teste de API de redirecionakento para whatsapp
+This API test aims to validate the connection between the hosted website and WhatsApp.
